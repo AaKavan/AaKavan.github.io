@@ -1,0 +1,25 @@
+# Arshia Akhtarkavan
+
+Hello! This is my personal website.
+I will be adding more about my research interests as time goes on.
+
+I am currently an undergraduate at the University of Arizona majoring in Physics, Mathematics, and Astronomy.
+My current research focuses on high-redshift galaxies using JWST/NIRCam, where I am currently working on modeling galaxy kinematics.
+
+## About me
+I am currently an undergraduate student at the University of Arizona. I've always been interested in space, so I am triple majoring in Physics, Mathematics, and Astronomy.
+Specifically, my research is about studying high-redshift galaxies using the James Webb Space Telescope (JWST), using its Infrared Camera, NIRCam.
+
+
+[Publications](publications) 
+<!--  
+Currently working on making these pages!
+[Preprints](preprints) 
+[CV](cv/Arshia_Akhtarkavan_CV.pdf)
+-->
+
+
+**Links:**  
+[GitHub](https://github.com/AaKavan) | 
+[Google Scholar](https://scholar.google.com/citations?user=F8KI1M8AAAAJ&hl=en) |
+[ORCID](https://orcid.org/0009-0003-7532-3197)
