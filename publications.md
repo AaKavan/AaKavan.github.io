@@ -9,4 +9,4 @@ DeCoursey C, Egami E, Sun F, **A. Akhtarkavan**, *et al.* (2025).
 Sun F, Fudamoto Y, Lin X, Helton J. M., Hsiao T. Y-Y, Egami E, **Akhtarkavan A**, *et al.* (2025).
 
 3. [**_Discovery of 39 Transients/Variables (z\_host = 0.437–5.271) in GOODS-N using JADES and CONGRESS JWST/NIRCam Images_**](https://ui.adsabs.harvard.edu/abs/2024TNSAN.264....1D/abstract)  
-DeCoursey C., Egami E., Sun F., **Akhtarkavan A.**, *et al.* (2024).  
+DeCoursey C., Egami E., Sun F., **Akhtarkavan A**, *et al.* (2024).  
