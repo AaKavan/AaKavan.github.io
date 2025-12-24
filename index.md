@@ -40,8 +40,8 @@ Completed via SABA International School, Frankfurt, Germany
 
 
 **Kenneth S. Krane Physics Scholarship** *(2025-2026)*  
-**Evelyn O. Bychinsky Promising Astronomer Award** *(2025-2026)*
-**RII-Sponsored Campuswide Undergraduate Student-Initiated Original Research** *(2025-2026)*  
+**Evelyn O. Bychinsky Promising Astronomer Award** *(2025-2026)*  
+**RII-Sponsored Campuswide Undergraduate Student-Initiated Original Research** *(2025-2026)*    
 **Glenn C. Purviance Scholarship in Physics** *(2023-2024)*  
 **Global Wildcat Tuition Award**, University of Arizona *(2023-present)*  
 **Silver Medal**, National Astronomy and Astrophysics Olympiad *(2022)*  
