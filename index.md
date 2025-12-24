@@ -22,3 +22,15 @@ Currently working on making these pages!
 [GitHub](https://github.com/AaKavan) | 
 [Google Scholar](https://scholar.google.com/citations?user=F8KI1M8AAAAJ&hl=en) |
 [ORCID](https://orcid.org/0009-0003-7532-3197)
+
+
+
+### Education
+
+**University of Arizona**, Tucson, AZ
+**Bachelor of Science** in Physics and Mathematics, with a minor in Astronomy *(Expected Spring 2027)*
+
+
+**Atomic Energy High School**, Tehran, Iran 
+**High School Diploma** *(Spring 2023)*
+Completed via SABA International School, Frankfurt, Germany
