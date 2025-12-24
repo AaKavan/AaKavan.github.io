@@ -10,4 +10,3 @@ Sun F, Fudamoto Y, Lin X, Helton J. M., Hsiao T. Y-Y, Egami E, **Akhtarkavan A**
 
 3. [**_Discovery of 39 Transients/Variables (z\_host = 0.437–5.271) in GOODS-N using JADES and CONGRESS JWST/NIRCam Images_**](https://ui.adsabs.harvard.edu/abs/2024TNSAN.264....1D/abstract)  
 DeCoursey C., Egami E., Sun F., **Akhtarkavan A.**, Salamat S., *et al.* (2024).  
-*Transient Name Server AstroNote, 264, 1.*
