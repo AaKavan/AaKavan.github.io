@@ -27,10 +27,12 @@ Currently working on making these pages!
 
 ### Education
 
-**University of Arizona**, Tucson, AZ
+**University of Arizona**, Tucson, AZ  
 **Bachelor of Science** in Physics and Mathematics, with a minor in Astronomy *(Expected Spring 2027)*
 
 
-**Atomic Energy High School**, Tehran, Iran 
-**High School Diploma** *(Spring 2023)*
+**Atomic Energy High School**, Tehran, Iran  
+**High School Diploma** *(Spring 2023)*  
 Completed via SABA International School, Frankfurt, Germany
+
+
