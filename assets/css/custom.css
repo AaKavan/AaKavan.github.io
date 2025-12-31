@@ -4,3 +4,22 @@
 .page-header nav {
   display: none !important;
 }
+
+/* Hide embedded PDF on small screens */
+@media (max-width: 768px) {
+  iframe {
+    display: none;
+  }
+}
+
+.mobile-note {
+  display: none;
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+@media (max-width: 768px) {
+  .mobile-note {
+    display: block;
+  }
+}

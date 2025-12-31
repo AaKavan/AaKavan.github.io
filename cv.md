@@ -1,8 +1,17 @@
-<nav style="margin-bottom: 1.5em; font-weight: 600;">
-  <a href="/">Home</a> |
-  <a href="publications">Publications</a> |
-  <a href="cv">CV</a>
-</nav>
+<p style="margin: 1em 0;">
+  <a href="cv/CV_Arshia_Akhtarkavan.pdf"
+     style="padding: 0.4em 0.8em;
+            border: 1px solid #555;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 600;">
+    Download PDF
+  </a>
+</p>
+
+<p class="mobile-note">
+  On mobile devices, please use the download link above to view the CV.
+</p>
 
 # Curriculum Vitae
 
