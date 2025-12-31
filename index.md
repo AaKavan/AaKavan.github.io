@@ -15,10 +15,9 @@ My research focuses on high-redshift galaxies using JWST/NIRCam, where I am curr
 <!--  
 Currently working on making these pages!
 [Preprints](preprints) 
-[CV](cv/Arshia_Akhtarkavan_CV.pdf)
 -->
 
-[CV](cv/Arshia_Akhtarkavan_CV.pdf)
+[CV](cv/CV_Arshia_Akhtarkavan.pdf)
 
 **Links:**  
 [GitHub](https://github.com/AaKavan) | 
