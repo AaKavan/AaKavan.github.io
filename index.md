@@ -1,3 +1,10 @@
+<nav style="margin-bottom: 1.5em; font-weight: 600;">
+  <a href="/">Home</a> |
+  <a href="publications">Publications</a> |
+  <a href="cv">CV</a>
+</nav>
+
+
 <div style="display: flex; gap: 1.5em; align-items: center; margin-bottom: 1.5em;">
   <div>
     <h1>Arshia Akhtarkavan</h1>
