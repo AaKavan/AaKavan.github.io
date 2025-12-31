@@ -1,3 +1,9 @@
+<nav style="margin-bottom: 1.5em; font-weight: 600;">
+  <a href="/">Home</a> |
+  <a href="publications">Publications</a> |
+  <a href="cv">CV</a>
+</nav>
+
 # Publications
 
 ## Co-author Publications
