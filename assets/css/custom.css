@@ -5,21 +5,24 @@
   display: none !important;
 }
 
-/* Hide embedded PDF on small screens */
-@media (max-width: 768px) {
-  iframe {
-    display: none;
-  }
+/* Desktop defaults */
+.cv-iframe {
+  display: block;
 }
 
 .mobile-note {
   display: none;
-  font-style: italic;
-  margin-bottom: 1em;
 }
 
+/* IF screen is mobile */
 @media (max-width: 768px) {
+  .cv-iframe {
+    display: none;
+  }
+
   .mobile-note {
     display: block;
+    font-style: italic;
+    margin-bottom: 1em;
   }
 }
