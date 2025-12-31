@@ -6,6 +6,11 @@
 
 # Curriculum Vitae
 
+<p style="margin-top: 1em;">
+  <a href="cv/CV_Arshia_Akhtarkavan.pdf"><strong>Download PDF</strong></a>
+</p>
+
+
 <iframe
   src="cv/CV_Arshia_Akhtarkavan.pdf"
   width="100%"
@@ -13,6 +18,3 @@
   style="border: none;">
 </iframe>
 
-<p style="margin-top: 1em;">
-  <a href="cv/CV_Arshia_Akhtarkavan.pdf"><strong>Download PDF</strong></a>
-</p>
