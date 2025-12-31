@@ -2,6 +2,7 @@
 
 Hello! This is my personal website.
 I will be adding more about my research interests as time goes on.
+This website is still in development, so stay tuned!
 
 ## About me
 
@@ -17,6 +18,7 @@ Currently working on making these pages!
 [CV](cv/Arshia_Akhtarkavan_CV.pdf)
 -->
 
+[CV](cv/Arshia_Akhtarkavan_CV.pdf)
 
 **Links:**  
 [GitHub](https://github.com/AaKavan) | 
