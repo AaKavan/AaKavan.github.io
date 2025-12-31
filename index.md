@@ -1,7 +1,7 @@
 <nav style="margin-bottom: 1.5em; font-weight: 600;">
   <a href="/">Home</a> |
   <a href="publications">Publications</a> |
-  <a href="cv/CV_Arshia_Akhtarkavan.pdf">CV</a>
+  <a href="cv">CV</a>
 </nav>
 
 Hello! This is my personal website.
