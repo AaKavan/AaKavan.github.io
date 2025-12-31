@@ -1,8 +1,15 @@
-<nav style="margin-bottom: 1.5em; font-weight: 600;">
-  <a href="/">Home</a> |
-  <a href="publications">Publications</a> |
-  <a href="cv">CV</a>
-</nav>
+<div style="display: flex; gap: 1.5em; align-items: center; margin-bottom: 1.5em;">
+  <div>
+    <h1>Arshia Akhtarkavan</h1>
+    <p>
+      Undergraduate student at the University of Arizona<br>
+      Physics • Mathematics • Astronomy
+    </p>
+  </div>
+  <img src="assets/images/profile.jpg"
+       alt="Arshia Akhtarkavan"
+       style="width: 140px; border-radius: 6px;">
+</div>
 
 Hello! This is my personal website.
 I will be adding more about my research interests as time goes on.
