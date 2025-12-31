@@ -15,13 +15,12 @@ I am currently an undergraduate student at the University of Arizona. I've alway
 My research focuses on high-redshift galaxies using JWST/NIRCam, where I am currently working on modeling galaxy kinematics.
 
 
-[Publications](publications) 
 <!--  
+[Publications](publications) 
+[CV](cv/CV_Arshia_Akhtarkavan.pdf)
 Currently working on making these pages!
 [Preprints](preprints) 
 -->
-
-[CV](cv/CV_Arshia_Akhtarkavan.pdf)
 
 **Links:**  
 [GitHub](https://github.com/AaKavan) | 
