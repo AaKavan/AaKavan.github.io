@@ -1,0 +1,6 @@
+/* Hide Slate theme automatic page navigation */
+.site-nav,
+.site-header nav,
+.page-header nav {
+  display: none !important;
+}
