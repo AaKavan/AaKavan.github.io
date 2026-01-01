@@ -12,48 +12,74 @@ footer,
   display: none !important;
 }
 
-/* Force wide page layout */
+/* Predictable sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Force wide page layout (Slate often constrains .inner) */
 .wrapper,
+.inner,
 .page-content,
 .main-content,
 .container {
   max-width: 96vw !important;
+  width: 96vw !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
-/* Wrapper padding (minimal side whitespace) */
-.wrapper {
-  padding-left: 2vw;
-  padding-right: 2vw;
+/* Comfortable side padding */
+.wrapper,
+.inner,
+.page-content,
+.main-content,
+.container {
+  padding-left: 2vw !important;
+  padding-right: 2vw !important;
 }
 
 /* Cap width on ultra-wide screens */
 @media (min-width: 1600px) {
   .wrapper,
+  .inner,
   .page-content,
   .main-content,
   .container {
     max-width: 1500px !important;
+    width: 1500px !important;
   }
 }
 
-/* Two-column layout: sidebar + main */
+/* Two-column layout: sidebar never gets too skinny, main takes the rest */
 .page-layout {
   display: grid;
-  grid-template-columns: 22% 78%;
-  gap: 3rem;
+  grid-template-columns: minmax(260px, 24%) minmax(0, 1fr);
+  column-gap: clamp(2rem, 4vw, 4rem);
   align-items: start;
 }
 
-/* Sidebar styling */
+/* Sidebar */
 .sidebar {
   font-size: 0.95em;
   position: sticky;
   top: 2rem;
-  max-width: 320px;
+  width: 100%;
+  overflow-wrap: anywhere;
 }
 
+/* Make sidebar image responsive (prevents overflow) */
+.sidebar img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 1em;
+}
+
+/* Sidebar lists */
 .sidebar h3 {
   margin-top: 0;
   font-size: 1.05em;
@@ -62,6 +88,7 @@ footer,
 .sidebar ul {
   list-style: none;
   padding-left: 0;
+  margin-left: 0;
 }
 
 .sidebar li {
@@ -80,7 +107,6 @@ footer,
   .page-layout {
     grid-template-columns: 1fr;
   }
-
   .sidebar {
     display: none;
   }
@@ -101,7 +127,6 @@ footer,
   .cv-iframe {
     display: none;
   }
-
   .mobile-note {
     display: block;
     font-style: italic;
