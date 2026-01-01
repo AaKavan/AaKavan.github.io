@@ -76,7 +76,7 @@ footer,
   max-width: 100%;
   height: auto;
   border-radius: 6px;
-  margin-bottom: 1em;
+  margin: 0 auto 1em auto; /* centers image only */
 }
 
 /* Sidebar lists */

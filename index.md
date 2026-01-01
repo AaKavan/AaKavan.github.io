@@ -4,8 +4,8 @@
   <aside class="sidebar">
 
     <img src="assets/images/profile.jpg"
-         alt="Arshia Akhtarkavan"
-         style="width: 160px; border-radius: 6px; margin-bottom: 1em;">
+        alt="Arshia Akhtarkavan"
+        class="sidebar-photo">
 
     <h2 style="margin-bottom: 0.2em;">Arshia Akhtarkavan</h2>
 
