@@ -1,67 +1,84 @@
-<nav style="margin-bottom: 1.5em; font-weight: 600;">
-  <a href="/">Home</a> |
-  <a href="publications">Publications</a> |
-  <a href="cv">CV</a>
-</nav>
+<div class="page-layout">
 
+  <!-- Sidebar -->
+  <aside class="sidebar">
 
-<div style="display: flex; gap: 1.5em; align-items: center; margin-bottom: 1.5em;">
-  <div>
-    <h1>Arshia Akhtarkavan</h1>
-    <p>
-      Undergraduate student at the University of Arizona<br>
-      Physics • Mathematics • Astronomy
+    <img src="assets/images/profile.jpg"
+         alt="Arshia Akhtarkavan"
+         style="width: 160px; border-radius: 6px; margin-bottom: 1em;">
+
+    <h2 style="margin-bottom: 0.2em;">Arshia Akhtarkavan</h2>
+
+    <p style="margin-top: 0;">
+      Undergraduate researcher<br>
+      Physics • Mathematics • Astronomy<br>
+      University of Arizona
     </p>
-  </div>
-  <img src="assets/images/profile.jpg"
-       alt="Arshia Akhtarkavan"
-       style="width: 140px; border-radius: 6px;">
+
+    <hr>
+
+    <h3>Links</h3>
+    <ul>
+      <li><a href="https://github.com/AaKavan">GitHub</a></li>
+      <li><a href="https://scholar.google.com/citations?user=F8KI1M8AAAAJ">Google Scholar</a></li>
+      <li><a href="https://orcid.org/0009-0003-7532-3197">ORCID</a></li>
+      <li><a href="cv/CV_Arshia_Akhtarkavan.pdf">CV (PDF)</a></li>
+    </ul>
+
+  </aside>
+
+  <!-- Main content -->
+  <main class="main-column">
+
+    <nav style="margin-bottom: 2em; font-weight: 600;">
+      <a href="/">Home</a> |
+      <a href="publications">Publications</a> |
+      <a href="cv">CV</a>
+    </nav>
+
+    <h1>About</h1>
+
+    <p>
+      Hello! I’m <strong>Arshia Akhtarkavan</strong>, and this is my personal website.
+      I will be adding more about my research interests as time goes on.
+      This website is still in development, so stay tuned!
+    </p>
+
+    <p>
+      I am currently an undergraduate student at the University of Arizona.
+      I’ve always been interested in space, so I am triple majoring in Physics,
+      Mathematics, and Astronomy.
+    </p>
+
+    <p>
+      My research focuses on high-redshift galaxies using JWST/NIRCam,
+      where I am currently working on modeling galaxy kinematics.
+    </p>
+
+    <h2>Education</h2>
+
+    <p>
+      <strong>University of Arizona</strong>, Tucson, AZ<br>
+      Bachelor of Science in Physics and Mathematics,
+      minor in Astronomy <em>(Expected Spring 2027)</em>
+    </p>
+
+    <p>
+      <strong>Atomic Energy High School</strong>, Tehran, Iran<br>
+      High School Diploma <em>(Spring 2023)</em><br>
+      Completed via SABA International School, Frankfurt, Germany
+    </p>
+
+    <h2>Awards & Scholarships</h2>
+
+    <ul>
+      <li>Kenneth S. Krane Physics Scholarship (2025–2026)</li>
+      <li>Evelyn O. Bychinsky Promising Astronomer Award (2025–2026)</li>
+      <li>RII-Sponsored Campuswide Undergraduate Student-Initiated Original Research (2025–2026)</li>
+      <li>Glenn C. Purviance Scholarship in Physics (2023–2024)</li>
+      <li>Global Wildcat Tuition Award, University of Arizona (2023–present)</li>
+      <li>Silver Medal, National Astronomy and Astrophysics Olympiad (2022)</li>
+    </ul>
+
+  </main>
 </div>
-
-Hello! I'm Arshia Akhtarkavan, and this is my personal website!
-
-
-I will be adding more about my research interests as time goes on.
-This website is still in development, so stay tuned!
-
-## About me
-
-I am currently an undergraduate student at the University of Arizona. I've always been interested in space, so I am triple majoring in Physics, Mathematics, and Astronomy.
-
-My research focuses on high-redshift galaxies using JWST/NIRCam, where I am currently working on modeling galaxy kinematics.
-
-
-<!--  
-[Publications](publications) 
-[CV](cv/CV_Arshia_Akhtarkavan.pdf)
-Currently working on making these pages!
-[Preprints](preprints) 
--->
-
-**Links:**  
-[GitHub](https://github.com/AaKavan) | 
-[Google Scholar](https://scholar.google.com/citations?user=F8KI1M8AAAAJ&hl=en) |
-[ORCID](https://orcid.org/0009-0003-7532-3197)
-
-
-
-### Education
-
-**University of Arizona**, Tucson, AZ  
-**Bachelor of Science** in Physics and Mathematics, with a minor in Astronomy *(Expected Spring 2027)*
-
-
-**Atomic Energy High School**, Tehran, Iran  
-**High School Diploma** *(Spring 2023)*  
-Completed via SABA International School, Frankfurt, Germany
-
-
-### Awards & Scholarships
-
-
-**Kenneth S. Krane Physics Scholarship** *(2025-2026)*  
-**Evelyn O. Bychinsky Promising Astronomer Award** *(2025-2026)*  
-**RII-Sponsored Campuswide Undergraduate Student-Initiated Original Research** *(2025-2026)*    
-**Glenn C. Purviance Scholarship in Physics** *(2023-2024)*  
-**Global Wildcat Tuition Award**, University of Arizona *(2023-present)*  
-**Silver Medal**, National Astronomy and Astrophysics Olympiad *(2022)*  
