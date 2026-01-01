@@ -18,7 +18,9 @@
        style="width: 140px; border-radius: 6px;">
 </div>
 
-Hello! This is my personal website.
+Hello! I'm Arshia Akhtarkavan, and this is my personal website!
+
+
 I will be adding more about my research interests as time goes on.
 This website is still in development, so stay tuned!
 
