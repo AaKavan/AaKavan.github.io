@@ -12,25 +12,37 @@ footer,
   display: none !important;
 }
 
-/* Widen main wrapper */
+/* Force wide page layout */
+.wrapper,
+.page-content,
+.main-content,
+.container {
+  max-width: 96vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Wrapper padding (minimal side whitespace) */
 .wrapper {
-  max-width: 90vw !important;
-  padding-left: 3vw;
-  padding-right: 3vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 
 /* Cap width on ultra-wide screens */
 @media (min-width: 1600px) {
-  .wrapper {
-    max-width: 1400px !important;
+  .wrapper,
+  .page-content,
+  .main-content,
+  .container {
+    max-width: 1500px !important;
   }
 }
 
-/* Two-column layout */
+/* Two-column layout: sidebar + main */
 .page-layout {
   display: grid;
-  grid-template-columns: 240px minmax(0, 1fr);
-  gap: 4rem;
+  grid-template-columns: 22% 78%;
+  gap: 3rem;
   align-items: start;
 }
 
@@ -39,6 +51,7 @@ footer,
   font-size: 0.95em;
   position: sticky;
   top: 2rem;
+  max-width: 320px;
 }
 
 .sidebar h3 {
@@ -55,9 +68,11 @@ footer,
   margin-bottom: 0.6em;
 }
 
-/* Main content fix */
+/* Main content */
 .main-column {
   min-width: 0;
+  font-size: 1.02rem;
+  line-height: 1.65;
 }
 
 /* Collapse sidebar on mobile */
