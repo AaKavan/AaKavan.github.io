@@ -1,8 +1,4 @@
-/* ================================
-   GLOBAL THEME OVERRIDES
-   ================================ */
-
-/* Hide Slate theme automatic navigation */
+/* Hide Slate navigation */
 .site-nav,
 .site-header nav,
 .page-header nav {
@@ -16,30 +12,21 @@ footer,
   display: none !important;
 }
 
-/* ================================
-   PAGE WIDTH CONTROL
-   ================================ */
-
-/* Use most of the viewport width on desktop */
-.main-content,
-.page-content,
-.container {
+/* Widen main wrapper */
+.wrapper {
   max-width: 90vw !important;
+  padding-left: 3vw;
+  padding-right: 3vw;
 }
 
-/* Prevent over-stretching on ultra-wide screens */
+/* Cap width on ultra-wide screens */
 @media (min-width: 1600px) {
-  .main-content,
-  .page-content,
-  .container {
+  .wrapper {
     max-width: 1400px !important;
   }
 }
 
-/* ================================
-   TWO-COLUMN LAYOUT (SIDEBAR + MAIN)
-   ================================ */
-
+/* Two-column layout */
 .page-layout {
   display: grid;
   grid-template-columns: 300px minmax(0, 1fr);
@@ -47,7 +34,7 @@ footer,
   align-items: start;
 }
 
-/* Sidebar */
+/* Sidebar styling */
 .sidebar {
   font-size: 0.95em;
   position: sticky;
@@ -68,15 +55,12 @@ footer,
   margin-bottom: 0.6em;
 }
 
-/* Main content */
+/* Main content fix */
 .main-column {
   min-width: 0;
 }
 
-/* ================================
-   MOBILE BEHAVIOR
-   ================================ */
-
+/* Collapse sidebar on mobile */
 @media (max-width: 900px) {
   .page-layout {
     grid-template-columns: 1fr;
@@ -87,20 +71,17 @@ footer,
   }
 }
 
-/* ================================
-   CV PAGE RESPONSIVENESS
-   ================================ */
-
-/* Desktop defaults */
+/* CV iframe desktop */
 .cv-iframe {
   display: block;
 }
 
+/* Hide mobile note by default */
 .mobile-note {
   display: none;
 }
 
-/* Mobile CV handling */
+/* CV mobile behavior */
 @media (max-width: 768px) {
   .cv-iframe {
     display: none;
