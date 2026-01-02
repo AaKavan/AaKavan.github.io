@@ -54,21 +54,17 @@
     <i class="fas fa-envelope"></i>
     <a href="mailto:aakhtarkavan@arizona.edu">
         aakhtarkavan@arizona.edu
-    </a><br>
-    <span style="font-size: 0.9em; color: #666;">
-        academic
-    </span>
+    </a>
     </p>
 
     <p>
-    <i class="fas fa-envelope-open-text"></i>
+    <i class="fas fa-envelope"></i>
     <a href="mailto:arshiakavan.public@gmail.com">
         arshiakavan.public@gmail.com
-    </a><br>
-    <span style="font-size: 0.9em; color: #666;">
-        general
-    </span>
+    </a>
     </p>
+
+    </aside>
 
   <!-- Main content -->
   <main class="main-column">
