@@ -10,10 +10,20 @@
     <h2 style="margin-bottom: 0.2em;">Arshia Akhtarkavan</h2>
 
     <p style="margin-top: 0;">
-      Undergraduate researcher<br>
-      Physics • Mathematics • Astronomy<br>
-      University of Arizona
+    Undergraduate researcher<br>
+    Physics • Mathematics • Astronomy
     </p>
+
+    <p style="margin-top: 0.4em; color: #555;">
+    <i class="fas fa-location-dot"></i>
+    University of Arizona, Tucson, AZ
+    </p>
+
+    <p style="margin-top: 0.2em; color: #555;">
+    <i class="fas fa-location-dot"></i>
+    Steward Observatory
+    </p>
+
 
     <hr>
 
