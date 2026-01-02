@@ -73,11 +73,11 @@ footer,
 /* Make sidebar image responsive (prevents overflow) */
 .sidebar img {
   display: block;
-  width: 140px;        /* fixed visual size */
-  max-width: 100%;     /* safety for very small screens */
+  width: 140px;
+  max-width: 100%;
   height: auto;
-  border-radius: 6px;
-  margin: 0 auto 1em;  /* centers image only */
+  border-radius: 50%;
+  margin: 0 auto 1em;
 }
 
 /* sidebar icons be black */
