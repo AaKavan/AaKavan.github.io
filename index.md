@@ -11,7 +11,7 @@
 
     <p style="margin-top: 0;">
     Undergraduate researcher<br>
-    Physics • Mathematics • Astronomy
+    Physics • Mathematics • Astronomy<br>
      University of Arizona
     </p>
 
