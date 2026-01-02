@@ -76,7 +76,7 @@ footer,
   width: 200px;              /* wider frame to show background */
   height: auto;
   max-width: 100%;
-  border-radius: 50% / 30%;  /* more elongated horizontally oval? */
+  border-radius: 50% / 35%;  /* more elongated horizontally oval? */
   margin: 0 auto 1em;
 }
 
