@@ -12,16 +12,12 @@
     <p style="margin-top: 0;">
     Undergraduate researcher<br>
     Physics • Mathematics • Astronomy
-    </p>
-
-    <p style="margin-top: 0.4em; color: #555;">
-    <i class="fas fa-location-dot"></i>
-    University of Arizona, Tucson, AZ
+     University of Arizona
     </p>
 
     <p style="margin-top: 0.2em; color: #555;">
     <i class="fas fa-location-dot"></i>
-    Steward Observatory
+    Steward Observatory, Tucson, AZ
     </p>
 
 
