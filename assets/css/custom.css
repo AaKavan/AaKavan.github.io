@@ -80,6 +80,14 @@ footer,
   margin: 0 auto 1em;  /* centers image only */
 }
 
+/* sidebar icons be black */
+.sidebar i {
+  color: #555;          /* neutral gray */
+  width: 1.2em;
+  margin-right: 0.4em;
+}
+
+
 /* Sidebar lists */
 .sidebar h3 {
   margin-top: 0;

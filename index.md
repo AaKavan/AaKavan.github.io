@@ -17,6 +17,9 @@
 
     <hr>
 
+    <!-- This is a comment -->
+    <!-- Links section -->
+
     <h3>Links</h3>
     <ul>
     <li>
@@ -43,15 +46,29 @@
 
     <hr>
 
+    <!-- Contacts section -->
+
     <h3>Contact</h3>
+
     <p>
     <i class="fas fa-envelope"></i>
     <a href="mailto:aakhtarkavan@arizona.edu">
         aakhtarkavan@arizona.edu
-    </a>
+    </a><br>
+    <span style="font-size: 0.9em; color: #666;">
+        academic
+    </span>
     </p>
 
-    </aside>
+    <p>
+    <i class="fas fa-envelope-open-text"></i>
+    <a href="mailto:arshiakavan.public@gmail.com">
+        arshiakavan.public@gmail.com
+    </a><br>
+    <span style="font-size: 0.9em; color: #666;">
+        general
+    </span>
+    </p>
 
   <!-- Main content -->
   <main class="main-column">
