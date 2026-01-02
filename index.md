@@ -19,13 +19,22 @@
 
     <h3>Links</h3>
     <ul>
-      <li><a href="https://github.com/AaKavan">GitHub</a></li>
-      <li><a href="https://scholar.google.com/citations?user=F8KI1M8AAAAJ">Google Scholar</a></li>
-      <li><a href="https://orcid.org/0009-0003-7532-3197">ORCID</a></li>
-      <li><a href="cv/CV_Arshia_Akhtarkavan.pdf">CV (PDF)</a></li>
+    <li><a href="https://github.com/AaKavan">GitHub</a></li>
+    <li><a href="https://scholar.google.com/citations?user=F8KI1M8AAAAJ">Google Scholar</a></li>
+    <li><a href="https://orcid.org/0009-0003-7532-3197">ORCID</a></li>
+    <li><a href="cv/CV_Arshia_Akhtarkavan.pdf">CV (PDF)</a></li>
     </ul>
 
-  </aside>
+    <hr>
+
+    <h3>Contact</h3>
+    <p>
+    <a href="mailto:aakhtarkavan@arizona.edu">
+        aakhtarkavan@arizona.edu
+    </a>
+    </p>
+
+    </aside>
 
   <!-- Main content -->
   <main class="main-column">
