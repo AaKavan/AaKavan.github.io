@@ -5,21 +5,27 @@
   display: none !important;
 }
 
-/* Add decorative image to top header */
-.page-header {
+/* Add decorative image to Slate header */
+.site-header {
   position: relative;
   background-image:
     linear-gradient(to right, rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url("/assets/images/header-moon.png") !important;
+    url("/assets/images/header_moon.png") !important;
   background-repeat: no-repeat !important;
   background-position: right 3rem center !important;
   background-size: auto 70% !important;
 }
 
+/* force height */
+.site-header {
+  min-height: 220px;
+}
+
+/* hide this in mobile */
 @media (max-width: 768px) {
-  .page-header {
+  .site-header {
     background-image:
-      linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.7));
+      linear-gradient(to right, rgba(0,0,0,0.75), rgba(0,0,0,0.75)) !important;
   }
 }
 
