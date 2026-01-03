@@ -2,3 +2,6 @@ title: Arshia Akhtarkavan
 description: Undergraduate Student in Physics, Astronomy, and Mathematics at the University of Arizona.
 url: https://aakavan.github.io
 theme: jekyll-theme-slate
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
