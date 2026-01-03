@@ -6,23 +6,28 @@
 }
 
 /* Add decorative image to Slate header */
+.page-header,
 .site-header {
   position: relative;
   background-image:
     linear-gradient(to right, rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url("/assets/images/header_moon.png") !important;
+    url("../images/header_moon.png") !important;
+
   background-repeat: no-repeat !important;
   background-position: right 3rem center !important;
-  background-size: auto 70% !important;
+  background-size: auto 75% !important;
+  min-height: 220px !important;
 }
 
-/* force height */
-.site-header {
-  min-height: 220px;
+/* Reserve space so text doesn't overlap image */
+.page-header .inner,
+.site-header .inner {
+  padding-right: 300px !important;
 }
 
-/* hide this in mobile */
+/* hide decorative image on mobile */
 @media (max-width: 768px) {
+  .page-header,
   .site-header {
     background-image:
       linear-gradient(to right, rgba(0,0,0,0.75), rgba(0,0,0,0.75)) !important;
@@ -97,20 +102,19 @@ footer,
 /* Make sidebar image responsive (prevents overflow) */
 .sidebar img {
   display: block;
-  width: 200px;              /* wider frame to show background */
+  width: 200px;
   height: auto;
   max-width: 100%;
-  border-radius: 50% / 40%;  /* more elongated horizontally oval? */
+  border-radius: 50% / 40%;
   margin: 0 auto 1em;
 }
 
 /* sidebar icons be black */
 .sidebar i {
-  color: #555;          /* neutral gray */
+  color: #555;
   width: 1.2em;
   margin-right: 0.4em;
 }
-
 
 /* Sidebar lists */
 .sidebar h3 {
