@@ -91,13 +91,15 @@
 
     <p>
       I am currently an undergraduate student at the University of Arizona.
-      I’ve always been interested in space, so I am triple majoring in Physics,
-      Mathematics, and Astronomy.
+      I’ve always been interested in applying mathematical and physical ideas in order to understand the world, so I am triple majoring in Physics, Mathematics, and Astronomy.
     </p>
 
     <p>
-      My research focuses on high-redshift galaxies using JWST/NIRCam,
-      where I am currently working on modeling galaxy kinematics.
+      My astrophysics research focuses on high-redshift galaxies using JWST/NIRCam, where I am currently working on modeling galaxy kinematics. I have also worked on data reduction and processing, transient science, etc. In the near future, I would like to investigate active galactic nuclei (AGNs) and high-redshift galaxy evolution, alongside other interesting areas of astronomy and astrophysics!
+    </p>
+
+    <p>
+      In mathematical physics, I am currently working on the Nahm equations, where my focus is trying to find higher-order solutions using concepts from representation theory and theoretical physics. For this work, I have programmed the islands website, whose link can be found <a href="https://sites.arizona.edu/islands-lab/">here</a>.
     </p>
 
     <h2>Education</h2>
