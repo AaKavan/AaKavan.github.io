@@ -99,7 +99,8 @@
     </p>
 
     <p>
-      In mathematical physics, I am currently working on the Nahm equations, where my focus is trying to find higher-order solutions using concepts from representation theory and theoretical physics. For this work, I have programmed the islands website, whose link can be found <a href="https://sites.arizona.edu/islands-lab/">here</a>.
+      In mathematical physics, I am currently working on the Nahm equations, where my focus is trying to construct higher-rank solutions using concepts from representation theory and theoretical physics. For this work, I have programmed the islands website, whose link can be found <a href="https://sites.arizona.edu/islands-lab/">here</a>.
+      In the future, I plan to study quantum field theory, with particular interest in non-Abelian gauge theory and Yang-Mills theory.
     </p>
 
     <h2>Education</h2>
