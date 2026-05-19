@@ -120,11 +120,17 @@
     <h2>Awards & Scholarships</h2>
 
     <ul>
-      <li>Kenneth S. Krane Physics Scholarship (2025–2026)</li>
-      <li>Evelyn O. Bychinsky Promising Astronomer Award (2025–2026)</li>
-      <li>RII-Sponsored Campuswide Undergraduate Student-Initiated Original Research (2025–2026)</li>
-      <li>Glenn C. Purviance Scholarship in Physics (2023–2024)</li>
-      <li>Global Wildcat Tuition Award, University of Arizona (2023–present)</li>
+      <li>Dorrit Hoffleit Research Scholarship, Yale University (2026)</li>
+      <li>College of Science Galileo Circle Scholar (Mathematics), University of Arizona (2026)</li>
+      <li>College of Science Galileo Circle Scholar (Physics), University of Arizona (2026)</li>
+      <li>Weaver Award for Undergraduate Research (2026)</li>
+      <li>Kenneth S. Krane Physics Scholarship (2025)</li>
+      <li>Evelyn O. Bychinsky Promising Astronomer Award (2025)</li>
+      <li>RII-Sponsored Campuswide Undergraduate Student-Initiated Original Research (2025)</li>
+      <li>Glenn C. Purviance Scholarship in Physics (2023)</li>
+      <li>Academic Year Highest Academic Distinction (2023 - Present)</li>
+      <li>Dean's List with Distinction - Full Time (2023 - Present)</li>
+      <li>Global Wildcat Tuition Award, University of Arizona (2023)</li>
       <li>Silver Medal, National Astronomy and Astrophysics Olympiad (2022)</li>
     </ul>
 
