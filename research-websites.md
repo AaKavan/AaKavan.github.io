@@ -11,7 +11,7 @@ A collection of websites I've built for specific research projects.
 
 <div style="margin-bottom: 1.5em;">
   <h3 style="margin-bottom: 0.2em;">
-    <a href="https://sites.arizona.edu/islands-lab/">Islands Lab: Nahm Equations</a>
+    <a href="https://sites.arizona.edu/islands-lab/">Islands Website: The Nahm Equations</a>
   </h3>
   <p>
     A website for my work in mathematical/theoretical physics, with a particular focus on
