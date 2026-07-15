@@ -78,7 +78,8 @@
     <nav style="margin-bottom: 2em; font-weight: 600;">
       <a href="/">Home</a> |
       <a href="publications">Publications</a> |
-      <a href="cv">CV</a>
+      <a href="cv">CV</a> |
+      <a href="research-websites">Research Websites</a>
     </nav>
 
     <h1>About</h1>
