@@ -48,6 +48,11 @@
         <i class="fas fa-file-pdf"></i> CV (PDF)
         </a>
     </li>
+    <li>
+        <a href="https://www.linkedin.com/in/arshia-akhtarkavan-80747028b/">
+        <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+    </li>
     </ul>
 
     <hr>
