@@ -114,7 +114,7 @@
     <p>
       <strong>University of Arizona</strong>, Tucson, AZ<br>
       Bachelor of Science in Physics, Mathematics (Comprehensive Emphasis), 
-      & Astronomy<em>(Expected Spring 2027)</em>
+      & Astronomy<em> (Expected Spring 2027)</em>
     </p>
 
     <p>
