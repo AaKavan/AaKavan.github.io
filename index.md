@@ -111,13 +111,15 @@
     </p>
 
     <p>
+      I'm currently doing research on galaxy kinematics at Steward Observatory, and spent this past summer at Yale studying RR Lyrae stars in the Draco dwarf galaxy. For a quick rundown of my research and work experience, check out my <a href="experience">Experience</a> page - or see the full <a href="cv">CV</a> for publications, talks, and awards.
+    </p>
+
+
+    <p>
       In mathematical physics, I am currently working on the Nahm equations, where my focus is trying to construct higher-rank solutions using concepts from representation theory and theoretical physics. For this work, I have programmed the islands website, whose link can be found <a href="https://sites.arizona.edu/islands-lab/">here</a>.
       In the future, I plan to study quantum field theory, with particular interest in non-Abelian gauge theory and Yang-Mills theory.
     </p>
 
-    <p>
-      I'm currently doing research on galaxy kinematics at Steward Observatory, and spent this past summer at Yale studying RR Lyrae stars in the Draco dwarf galaxy. For a quick rundown of my research and work experience, check out my <a href="experience">Experience</a> page &mdash; or see the full <a href="cv">CV</a> for publications, talks, and awards.
-    </p>
 
     <h2>Education</h2>
 
