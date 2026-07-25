@@ -1,13 +1,14 @@
 <nav style="margin-bottom: 1.5em; font-weight: 600;">
   <a href="/">Home</a> |
   <a href="publications">Publications</a> |
+  <a href="experience">Experience</a> |
   <a href="cv">CV</a> |
   <a href="research-websites">Research Websites</a>
 </nav>
 
 # Publications
 
-## Co-author Publications
+<!-- ## Co-author Publications -->
 
 1. [**_The First Photometric Evidence of a Transient/Variable Source at z > 5 with JWST_**](https://arxiv.org/abs/2504.17007)  
 DeCoursey C, Egami E, Sun F, **A. Akhtarkavan**, *et al.* (2025).

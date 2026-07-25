@@ -39,6 +39,11 @@
         </a>
     </li>
     <li>
+        <a href="experience">
+        <i class="fas fa-briefcase"></i> Experience
+        </a>
+    </li>
+    <li>
         <a href="https://orcid.org/0009-0003-7532-3197">
         <i class="fab fa-orcid"></i> ORCID
         </a>
@@ -83,6 +88,7 @@
     <nav style="margin-bottom: 2em; font-weight: 600;">
       <a href="/">Home</a> |
       <a href="publications">Publications</a> |
+      <a href="experience">Experience</a> |
       <a href="cv">CV</a> |
       <a href="research-websites">Research Websites</a>
     </nav>
@@ -107,6 +113,10 @@
     <p>
       In mathematical physics, I am currently working on the Nahm equations, where my focus is trying to construct higher-rank solutions using concepts from representation theory and theoretical physics. For this work, I have programmed the islands website, whose link can be found <a href="https://sites.arizona.edu/islands-lab/">here</a>.
       In the future, I plan to study quantum field theory, with particular interest in non-Abelian gauge theory and Yang-Mills theory.
+    </p>
+
+    <p>
+      I'm currently doing research on galaxy kinematics at Steward Observatory, and spent this past summer at Yale studying RR Lyrae stars in the Draco dwarf galaxy. For a quick rundown of my research and work experience, check out my <a href="experience">Experience</a> page &mdash; or see the full <a href="cv">CV</a> for publications, talks, and awards.
     </p>
 
     <h2>Education</h2>
