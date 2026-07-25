@@ -23,6 +23,8 @@ DeCoursey C., Egami E., Sun F., **Akhtarkavan A**, *et al.* (2024).
 
 ## Conferences & Workshops
 
+*Titles in quotation marks indicate talks or posters presented; others indicate attended programs.*
+
 1. **"Forward-Modeling Galaxy Kinematics and Morphology with JWST NIRCam Grisms"**  
 Poster presentation, *Surveying the Universe in 4D: Beating Cosmic Variance with Wide-Field Slitless Spectroscopy from HST, JWST, Euclid, Roman, and Beyond* Workshop  
 Space Telescope Science Institute (STScI), Baltimore, MD, August 2026 *(planned)*
