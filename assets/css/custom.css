@@ -12,13 +12,15 @@ body,
   display: none !important;
 }
 
-/* Add decorative image to Slate header */
+/* Add decorative image to Slate header, layered over the original dark gradient */
 #header_wrap {
   position: relative;
-  background-image: url("/assets/images/header_moon.png") !important;
-  background-repeat: no-repeat !important;
-  background-position: right 3rem center !important;
-  background-size: auto 75% !important;
+  background-image:
+    url("/assets/images/header_moon.png"),
+    linear-gradient(to top, #373737, #212121) !important;
+  background-repeat: no-repeat, no-repeat !important;
+  background-position: right 3rem center, center !important;
+  background-size: auto 75%, cover !important;
   min-height: 220px !important;
 }
 
