@@ -21,9 +21,9 @@ Sun F, Fudamoto Y, Lin X, Helton J. M., Hsiao T. Y-Y, Egami E, **Akhtarkavan A**
 3. [**_Discovery of 39 Transients/Variables (z\_host = 0.437–5.271) in GOODS-N using JADES and CONGRESS JWST/NIRCam Images_**](https://ui.adsabs.harvard.edu/abs/2024TNSAN.264....1D/abstract)  
 DeCoursey C., Egami E., Sun F., **Akhtarkavan A**, *et al.* (2024).  
 
-## Conferences & Workshops
+## Conferences & Presentations
 
-*Titles in quotation marks indicate talks or posters presented; others indicate attended programs.*
+*Bold text in quotation marks indicates the title of the talks or posters presented.*
 
 1. **"Forward-Modeling Galaxy Kinematics and Morphology with JWST NIRCam Grisms"**  
 Poster presentation, *Surveying the Universe in 4D: Beating Cosmic Variance with Wide-Field Slitless Spectroscopy from HST, JWST, Euclid, Roman, and Beyond* Workshop  
@@ -45,9 +45,11 @@ University of Arizona, Tucson, AZ, April 2026
 Contributed Talk, *Steward Observatory Internal Symposium*  
 Steward Observatory, University of Arizona, Tucson, AZ, March 2026
 
-6. *Arizona Winter School on Multi-Probe Cosmology in the Roman ST Era*  
-Arizona Cosmology Lab, University of Arizona, Tucson, AZ, January 2026
-
-7. **"Forward-Modeling Emission Line Galaxy Kinematics and Morphology with JWST NIRCam Grisms"**  
+6. **"Forward-Modeling Emission Line Galaxy Kinematics and Morphology with JWST NIRCam Grisms"**  
 iPoster presentation, *247th Meeting of the American Astronomical Society (AAS 247)*  
 Phoenix, AZ, January 2026
+
+## Workshops & Trainings
+
+1. *Arizona Winter School on Multi-Probe Cosmology in the Roman ST Era*  
+Arizona Cosmology Lab, University of Arizona, Tucson, AZ, January 2026
