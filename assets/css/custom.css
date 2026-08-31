@@ -1,3 +1,7 @@
+/* ==========================================================================
+   Base / shared
+   ========================================================================== */
+
 /* Warm beige page background */
 html,
 body,
@@ -10,30 +14,6 @@ body,
 .site-header nav,
 .page-header nav {
   display: none !important;
-}
-
-/* Add decorative image to Slate header, layered over the original dark gradient */
-#header_wrap {
-  position: relative;
-  background-image:
-    url("/assets/images/header_moon.png"),
-    linear-gradient(to top, #373737, #212121) !important;
-  background-repeat: no-repeat, no-repeat !important;
-  background-position: right 3rem center, center !important;
-  background-size: auto 75%, cover !important;
-  min-height: 220px !important;
-}
-
-/* Reserve space so text doesn't overlap image */
-#header_wrap .inner {
-  padding-right: 300px !important;
-}
-
-/* hide decorative image on mobile */
-@media (max-width: 768px) {
-  #header_wrap {
-    background-image: none !important;
-  }
 }
 
 /* Remove GitHub Pages footer */
@@ -50,6 +30,41 @@ footer,
   box-sizing: border-box;
 }
 
+/* Never let media or long words push the page sideways */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#main_content {
+  overflow-wrap: break-word;
+}
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+
+/* Decorative image layered over the original dark gradient */
+#header_wrap {
+  position: relative;
+  background-image:
+    url("/assets/images/header_moon.png"),
+    linear-gradient(to top, #373737, #212121) !important;
+  background-repeat: no-repeat, no-repeat !important;
+  background-position: right 3rem center, center !important;
+  background-size: auto 75%, cover !important;
+  min-height: 220px !important;
+}
+
+/* Reserve space so text doesn't overlap image */
+#header_wrap .inner {
+  padding-right: 300px !important;
+}
+
+/* ==========================================================================
+   Page width
+   ========================================================================== */
+
 /* Force wide page layout (Slate often constrains .inner) */
 .wrapper,
 .inner,
@@ -60,14 +75,6 @@ footer,
   width: 96vw !important;
   margin-left: auto !important;
   margin-right: auto !important;
-}
-
-/* Comfortable side padding */
-.wrapper,
-.inner,
-.page-content,
-.main-content,
-.container {
   padding-left: 2vw !important;
   padding-right: 2vw !important;
 }
@@ -84,7 +91,24 @@ footer,
   }
 }
 
-/* Two-column layout: sidebar never gets too skinny, main takes the rest */
+/* ==========================================================================
+   Top navigation
+   ========================================================================== */
+
+.topnav {
+  margin-bottom: 1.5em;
+  font-weight: 600;
+}
+
+/* Home page nav sits a little lower */
+.main-column .topnav {
+  margin-bottom: 2em;
+}
+
+/* ==========================================================================
+   Two-column layout
+   ========================================================================== */
+
 .page-layout {
   display: grid;
   grid-template-columns: minmax(260px, 24%) minmax(0, 1fr);
@@ -141,34 +165,247 @@ footer,
   line-height: 1.65;
 }
 
-/* Collapse sidebar on mobile */
-@media (max-width: 900px) {
-  .page-layout {
-    grid-template-columns: 1fr;
-  }
-  .sidebar {
-    display: none;
-  }
-}
+/* ==========================================================================
+   CV page
+   ========================================================================== */
 
-/* CV iframe desktop */
 .cv-iframe {
   display: block;
 }
 
-/* Hide mobile note by default */
 .mobile-note {
   display: none;
 }
 
-/* CV mobile behavior */
+/* ==========================================================================
+   Tablets and small laptops (<= 900px): sidebar becomes a header card
+   ========================================================================== */
+
+@media (max-width: 900px) {
+  /* Header: smaller moon, less reserved space */
+  #header_wrap {
+    min-height: 170px !important;
+    background-position: right 1rem center, center !important;
+    background-size: auto 60%, cover !important;
+  }
+
+  #header_wrap .inner {
+    padding-right: 150px !important;
+  }
+
+  /* Single column; sidebar (first in the DOM) stacks on top */
+  .page-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    display: block;
+    position: static;
+    font-size: 1rem;
+    margin: 0 0 1.75rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid #e6ded1;
+  }
+
+  /* Photo on the left, name/role/location on the right */
+  .sidebar-id {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .sidebar-id img {
+    width: 110px;
+    flex: 0 0 auto;
+    margin: 0;
+  }
+
+  .sidebar-meta {
+    min-width: 0;
+  }
+
+  .sidebar-meta h2 {
+    margin: 0 0 0.25em !important;
+    padding-bottom: 0;
+    background: none;
+    font-size: 24px;
+    letter-spacing: -0.5px;
+  }
+
+  .sidebar-meta p {
+    margin: 0 0 0.35em !important;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+
+  /* The dividers only make sense in the vertical desktop sidebar */
+  .sidebar hr {
+    display: none;
+  }
+
+  .sidebar h3 {
+    margin: 0 0 0.6em;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #6b6257;
+  }
+
+  /* Links become a wrapped row of tappable pills */
+  .sidebar ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.4em;
+  }
+
+  .sidebar li {
+    margin-bottom: 0;
+  }
+
+  .sidebar li a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 40px;
+    padding: 0.35em 0.9em;
+    border: 1px solid #ded5c6;
+    border-radius: 999px;
+    background: #fffdfa;
+    font-size: 0.95rem;
+  }
+
+  /* Contact lines */
+  .sidebar > p {
+    margin: 0 0 0.6em;
+    font-size: 0.95rem;
+  }
+
+  .main-column {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+}
+
+/* ==========================================================================
+   Phones (<= 620px)
+   ========================================================================== */
+
+@media (max-width: 620px) {
+  /* Use the full screen with fixed, comfortable gutters */
+  .wrapper,
+  .inner,
+  .page-content,
+  .main-content,
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  /* Drop the moon: too little room for it beside the title.
+     Reset size/position too, or the single remaining gradient layer
+     inherits the moon's sizing and paints only a band. */
+  #header_wrap {
+    background-image: linear-gradient(to top, #373737, #212121) !important;
+    background-position: center !important;
+    background-size: cover !important;
+    min-height: 0 !important;
+  }
+
+  #header_wrap .inner {
+    padding: 30px 16px 24px !important;
+  }
+
+  #project_title {
+    font-size: 28px !important;
+  }
+
+  #project_tagline {
+    font-size: 15px !important;
+    line-height: 1.4;
+  }
+
+  #main_content {
+    padding-top: 26px !important;
+  }
+
+  /* Nav: pills instead of pipe-separated text */
+  .topnav,
+  .main-column .topnav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.75em;
+  }
+
+  .topnav .sep {
+    display: none;
+  }
+
+  .topnav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 40px;
+    padding: 0.4em 0.9em;
+    border: 1px solid #ded5c6;
+    border-radius: 999px;
+    background: #fffdfa;
+    font-size: 0.95rem;
+  }
+
+  .sidebar-id img {
+    width: 96px;
+  }
+
+  .sidebar-meta h2 {
+    font-size: 21px;
+  }
+
+  /* Slate's heading sizes are still a bit large on a phone */
+  h1 {
+    font-size: 26px !important;
+  }
+
+  h2 {
+    font-size: 22px !important;
+  }
+
+  h3 {
+    font-size: 19px !important;
+  }
+
+  /* Numbered publication/conference lists: keep numbers out of the text */
+  #main_content ol,
+  #main_content ul {
+    list-style-position: outside;
+    padding-left: 1.4em;
+  }
+}
+
+/* ==========================================================================
+   CV page on small screens: PDF embeds don't work reliably, offer the file
+   ========================================================================== */
+
 @media (max-width: 768px) {
   .cv-iframe {
     display: none;
   }
+
   .mobile-note {
     display: block;
     font-style: italic;
     margin-bottom: 1em;
+  }
+
+  .cv-download a {
+    display: block;
+    text-align: center;
+    padding: 0.75em 1em !important;
+    border-radius: 6px !important;
+    background: #fffdfa;
   }
 }

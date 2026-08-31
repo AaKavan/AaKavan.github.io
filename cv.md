@@ -1,8 +1,8 @@
-<nav style="margin-bottom: 1.5em; font-weight: 600;">
-  <a href="/">Home</a> |
-  <a href="publications">Publications & Conferences</a> |
-  <a href="experience">Experience</a> |
-  <a href="cv">CV</a> |
+<nav class="topnav">
+  <a href="/">Home</a> <span class="sep">|</span>
+  <a href="publications">Publications & Conferences</a> <span class="sep">|</span>
+  <a href="experience">Experience</a> <span class="sep">|</span>
+  <a href="cv">CV</a> <span class="sep">|</span>
   <a href="research-websites">Research Websites</a>
 </nav>
 

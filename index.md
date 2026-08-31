@@ -3,9 +3,13 @@
   <!-- Sidebar -->
   <aside class="sidebar">
 
+    <div class="sidebar-id">
+
     <img src="assets/images/profile.jpg"
         alt="Arshia Akhtarkavan"
         class="sidebar-photo">
+
+    <div class="sidebar-meta">
 
     <h2 style="margin-bottom: 0.2em;">Arshia Akhtarkavan</h2>
 
@@ -20,6 +24,9 @@
     Steward Observatory, Tucson, AZ
     </p>
 
+    </div>
+
+    </div>
 
     <hr>
 
@@ -85,11 +92,11 @@
   <!-- Main content -->
   <main class="main-column">
 
-    <nav style="margin-bottom: 2em; font-weight: 600;">
-      <a href="/">Home</a> |
-      <a href="publications">Publications & Conferences</a> |
-      <a href="experience">Experience</a> |
-      <a href="cv">CV</a> |
+    <nav class="topnav">
+      <a href="/">Home</a> <span class="sep">|</span>
+      <a href="publications">Publications & Conferences</a> <span class="sep">|</span>
+      <a href="experience">Experience</a> <span class="sep">|</span>
+      <a href="cv">CV</a> <span class="sep">|</span>
       <a href="research-websites">Research Websites</a>
     </nav>
 
