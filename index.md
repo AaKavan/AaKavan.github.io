@@ -146,6 +146,7 @@
 
     <ul>
       <li>Dorrit Hoffleit Research Scholarship, Yale University (2026)</li>
+      <li>Evelyn O. Bychinsky Promising Astronomer Award (2026)
       <li>William F. Lucas Astronomy Scholarship, Steward Observatory (2026)</li>
       <li>College of Science Galileo Circle Scholar (Mathematics), University of Arizona (2026)</li>
       <li>College of Science Galileo Circle Scholar (Physics), University of Arizona (2026)</li>

@@ -26,8 +26,8 @@ DeCoursey C., Egami E., Sun F., **Akhtarkavan A**, *et al.* (2024).
 *Bold text in quotation marks indicates the title of the talks or posters presented.*
 
 1. **"Forward-Modeling Galaxy Kinematics and Morphology with JWST NIRCam Grisms"**  
-Poster presentation, *Surveying the Universe in 4D: Beating Cosmic Variance with Wide-Field Slitless Spectroscopy from HST, JWST, Euclid, Roman, and Beyond* Workshop  
-Space Telescope Science Institute (STScI), Baltimore, MD, August 2026 *(planned)*
+Poster presentation and Flash Talk *Surveying the Universe in 4D: Beating Cosmic Variance with Wide-Field Slitless Spectroscopy from HST, JWST, Euclid, Roman, and Beyond* Workshop  
+Space Telescope Science Institute (STScI), Baltimore, MD, August 2026 
 
 2. **"Modeling RR Lyrae Spectra in the Draco Dwarf Galaxy"**  
 Contributed Talk, *Yale/CeNAM Nuclear Asteroseismology Workshop*  
