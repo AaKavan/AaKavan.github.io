@@ -103,7 +103,7 @@
     <h1>About</h1>
 
     <p>
-      Hello! I’m <strong>Arshia Kavan</strong> (full name Arshia Akhtarkavan), 
+      Hello! I’m <strong>Arshia Kavan</strong> (full name Arshia Akhtar Kavan), 
       and this is my personal website.
       I will be adding more about my research interests as time goes on.
       This website is still in development, so stay tuned!
