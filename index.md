@@ -6,12 +6,12 @@
     <div class="sidebar-id">
 
     <img src="assets/images/profile.jpg"
-        alt="Arshia Akhtarkavan"
+        alt="Arshia Kavan"
         class="sidebar-photo">
 
     <div class="sidebar-meta">
 
-    <h2 style="margin-bottom: 0.2em;">Arshia Akhtarkavan</h2>
+    <h2 style="margin-bottom: 0.2em;">Arshia Kavan</h2>
 
     <p style="margin-top: 0;">
     Undergraduate researcher<br>
@@ -103,7 +103,8 @@
     <h1>About</h1>
 
     <p>
-      Hello! I’m <strong>Arshia Akhtarkavan</strong>, and this is my personal website.
+      Hello! I’m <strong>Arshia Kavan</strong> (full name Arshia Akhtarkavan), 
+      and this is my personal website.
       I will be adding more about my research interests as time goes on.
       This website is still in development, so stay tuned!
     </p>
