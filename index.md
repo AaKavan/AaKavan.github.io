@@ -124,8 +124,8 @@
 
 
     <p>
-      In mathematical physics, I am currently working on the Nahm equations, where my focus is trying to construct higher-rank solutions using concepts from representation theory and theoretical physics. For this work, I have programmed the islands website, whose link can be found <a href="https://sites.arizona.edu/islands-lab/">here</a>.
-      In the future, I plan to study quantum field theory, with particular interest in non-Abelian gauge theory and Yang-Mills theory.
+      In mathematical physics, I am currently working on the Nahm equations, where my focus is trying to construct higher-rank solutions using concepts from representation theory and theoretical physics. For this work, I developed the <a href="https://sites.arizona.edu/islands-lab/">Islands Project website</a>.
+      I am also studying quantum field theory through a graduate-level independent study. My broader interests include non-Abelian gauge theory, gravitation, cosmology, and quantum gravity. I am particularly interested in the physical implications of these theories, especially for the early universe and theoretical cosmology. 
     </p>
 
 
