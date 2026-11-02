@@ -52,11 +52,10 @@
    Contributed Talk, *Steward Observatory Internal Symposium*  
    Steward Observatory, University of Arizona, Tucson, AZ, March 2026
 
-6. **"Forward-Modeling Emission Line Galaxy Kinematics and Morphology with JWST NIRCam Grisms"**  
+6. Arizona Winter School on Multi-Probe Cosmology in the Roman ST Era  
+Arizona Cosmology Lab, University of Arizona, Tucson, AZ, January 2026
+
+7. **"Forward-Modeling Emission Line Galaxy Kinematics and Morphology with JWST NIRCam Grisms"**  
    iPoster Presentation, *247th Meeting of the American Astronomical Society (AAS 247)*  
    Phoenix, AZ, January 2026
 
-## Workshops & Trainings
-
-1. *Arizona Winter School on Multi-Probe Cosmology in the Roman ST Era*  
-   Arizona Cosmology Lab, University of Arizona, Tucson, AZ, January 2026
